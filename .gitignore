@@ -1,0 +1,37 @@
+*.swp
+*.*~
+project.lock.json
+.DS_Store
+*.pyc
+ApiAuthentication/nupkg/
+
+# Visual Studio Code
+.vscode
+
+# Rider
+.idea
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+ApiAuthentication/[Dd]ebug/
+ApiAuthentication/[Dd]ebugPublic/
+ApiAuthentication/[Rr]elease/
+ApiAuthentication/[Rr]eleases/
+ApiAuthentication/x64/
+ApiAuthentication/x86/
+ApiAuthentication/build/
+ApiAuthentication/bld/
+ApiAuthentication/[Bb]in/
+ApiAuthentication/[Oo]bj/
+ApiAuthentication/[Oo]ut/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# Visual Studio 2015
+.vs/
